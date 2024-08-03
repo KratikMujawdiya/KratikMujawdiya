@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Kratik Porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kratik Porwal" height="30" width="40" /></a>
-<a href="https://fb.com/Kratik Mujawdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kratik Mujawdiya" height="30" width="40" /></a>
+<a href="linkedin.com/in/kratik-porwal-77b917253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kratik Porwal" height="30" width="40" /></a>
+<a href="[https://fb.com/Kratik Mujawdiya](https://www.facebook.com/profile.php?id=100072183833029&...)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kratik Mujawdiya" height="30" width="40" /></a>
 <a href="https://instagram.com/kratikmujawdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kratikmujawdiya" height="30" width="40" /></a>
 </p>
 
