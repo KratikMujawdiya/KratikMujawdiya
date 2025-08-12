@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratikmujawdiya&label=Profile%20views&color=0e75b6&style=flat" alt="kratikmujawdiya" /> </p>
 
-- 🔭 I’m currently working on **React based projects**
+- 🔭 I’m currently working on **MERN stack projects**
 
-- 🌱 I’m currently learning **Backend web development's technologies**
+- 🌱 I’m currently building solid foundation on **Backend web development's technologies**
 
 - 👯 I’m looking to collaborate on **Backends projects**
 
